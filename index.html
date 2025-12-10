@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Proyecto Web</title>
 </head>
+
 <body>
     <header>
         <nav>
@@ -29,8 +31,23 @@
 
         <section id="contacto">
             <h2>Contacto</h2>
-            <p>Más adelante añadiré un formulario de contacto en esta sección.</p>
+            <p>Si quieres ponerte en contacto conmigo, puedes rellenar este formulario:</p>
+
+            <form>
+                <label for="nombre">Nombre:</label><br>
+                <input type="text" id="nombre" name="nombre"><br><br>
+
+                <label for="email">Correo electrónico:</label><br>
+                <input type="email" id="email" name="email"><br><br>
+
+                <label for="mensaje">Mensaje:</label><br>
+                <textarea id="mensaje" name="mensaje"></textarea><br><br>
+
+                <button type="submit">Enviar</button>
+            </form>
         </section>
     </main>
 </body>
+
 </html>
+
