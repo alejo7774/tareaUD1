@@ -4,7 +4,7 @@ Desarrollo Colaborativo con Git y GitHub
 Este proyecto corresponde a la Unidad Didáctica 1 del módulo **Desarrollo colaborativo en entornos de programación**.  
 El objetivo es construir una página web básica y aplicar el flujo de trabajo profesional con Git, GitHub, ramas, commits y Pull Requests.
 
----
+
 ## 📑 Tabla de Contenido
 
 1. [Descripción del proyecto](#descripcion-del-proyecto)  
