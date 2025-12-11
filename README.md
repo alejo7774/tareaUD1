@@ -1,5 +1,10 @@
 # Proyecto Web – tareaUD1  
 Desarrollo Colaborativo con Git y GitHub
+1. [Descripción del proyecto](#descripcion-del-proyecto)  
+2. [Instalación del repositorio](#instalacoón-del-repositorio)  
+3. [Estructura del proyecto](#estructura-del-proyecto)  
+4. [Mejoras implementadas](#mejoras-implementadas)  
+5. [Flujo de trabajo con Git](#flujo-de-trabajo-con-git)  
 
 Este proyecto corresponde a la Unidad Didáctica 1 del módulo **Desarrollo colaborativo en entornos de programación**.  
 El objetivo es construir una página web básica y aplicar el flujo de trabajo profesional con Git, GitHub, ramas, commits y Pull Requests.
