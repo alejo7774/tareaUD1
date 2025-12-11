@@ -7,6 +7,8 @@ El objetivo es construir una página web básica y aplicar el flujo de trabajo p
 ---
 ## 📑 Tabla de Contenido
 
+1. [Descripción del proyecto](#descripción-del-proyecto)
+
 1. [Descripción del proyecto](#descripcion-del-proyecto)  
 2. [Instalación del repositorio](#instalacoón-del-repositorio)  
 3. [Estructura del proyecto](#estructura-del-proyecto)  
