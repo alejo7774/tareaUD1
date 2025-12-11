@@ -1,7 +1,7 @@
 # Proyecto Web – tareaUD1  
 Desarrollo Colaborativo con Git y GitHub
 
-<h2 id="descripcion-del-proyecto">🧾 Descripción del proyecto</h2>
+
 
 1. [Descripción del proyecto](#descripcion-del-proyecto)
 
@@ -10,8 +10,6 @@ El objetivo es construir una página web básica y aplicar el flujo de trabajo p
 
 ---
 ## 📑 Tabla de Contenido
-
-1. [Descripción del proyecto](#estructura-del-proyecto)
 
 1. [Descripción del proyecto](#descripcion-del-proyecto)  
 2. [Instalación del repositorio](#instalacoón-del-repositorio)  
@@ -55,7 +53,6 @@ tareaUD1/
 └── README.md
 
 
-<h2 id="descripcion-del-proyecto">🧾 Descripción del proyecto</h2>
 ---
 
 ## 🚀 Mejoras implementadas
