@@ -1,10 +1,6 @@
 # Proyecto Web – tareaUD1  
 Desarrollo Colaborativo con Git y GitHub
 
-
-
-1. [Descripción del proyecto](#descripcion-del-proyecto)
-
 Este proyecto corresponde a la Unidad Didáctica 1 del módulo **Desarrollo colaborativo en entornos de programación**.  
 El objetivo es construir una página web básica y aplicar el flujo de trabajo profesional con Git, GitHub, ramas, commits y Pull Requests.
 
@@ -20,7 +16,7 @@ El objetivo es construir una página web básica y aplicar el flujo de trabajo p
 
 ---
 
-## 🧾 Descripción del proyecto
+## id="descripcion-del-proyecto">🧾 Descripción del proyecto
 
 Esta página web incluye varias secciones: Inicio, Sobre mí, Contacto, Galería de imágenes y un Footer con enlaces.  
 Cada funcionalidad fue desarrollada en una rama diferente y posteriormente integrada en `main` mediante Pull Requests.
@@ -30,7 +26,7 @@ El repositorio oficial del proyecto es:
 
 ---
 
-## 🛠 Instalación del repositorio
+## id="instalacoón-del-repositorio"🛠 Instalación del repositorio
 
 Para clonar el proyecto en local:
 
@@ -39,7 +35,7 @@ git clone https://github.com/alejo7774/tareaUD1.git
 cd tareaUD1
 
 
-## 🗂 Estructura del proyecto
+## id"estructura-del-proyecto"🗂 Estructura del proyecto
 
 tareaUD1/
 │
@@ -55,7 +51,7 @@ tareaUD1/
 
 ---
 
-## 🚀 Mejoras implementadas
+## id="mejoras-implementadas"🚀 Mejoras implementadas
 
 Cada mejora se realizó en una **rama independiente**, siguiendo el flujo:
 
@@ -104,7 +100,7 @@ Se añadió un botón flotante circular para volver al inicio de la página.
 Se creó este README en formato Markdown con descripción, estructura, mejoras y flujo de trabajo.
 
 
-## 🔄 Flujo de trabajo con Git
+## id="flujo-de-trabajo-con-git"🔄 Flujo de trabajo con Git
 
 En este proyecto se ha utilizado un flujo de trabajo basado en **ramas independientes**, siguiendo buenas prácticas de desarrollo colaborativo.
 
