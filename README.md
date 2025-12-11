@@ -7,16 +7,16 @@ El objetivo es construir una página web básica y aplicar el flujo de trabajo p
 
 ## 📑 Tabla de Contenido
 
-1. [Descripción del proyecto](#descripcion-del-proyecto)  
-2. [Instalación del repositorio](#instalacoón-del-repositorio)  
-3. [Estructura del proyecto](#estructura-del-proyecto)  
-4. [Mejoras implementadas](#mejoras-implementadas)  
-5. [Flujo de trabajo con Git](#flujo-de-trabajo-con-git)  
+1. [Descripción del proyecto](#descripcion-del-proyecto)
+2. [Instalación del repositorio](#instalación-del-repositorio)
+3. [Estructura del proyecto](#estructura-del-proyecto)
+4. [Mejoras implementadas](#mejoras-implementadas)
+5. [Flujo de trabajo con Git](#flujo-de-trabajo-con-git)
 
 
 ---
 
-## id="descripcion-del-proyecto">🧾 Descripción del proyecto
+## 🧾 Descripción del proyecto
 
 Esta página web incluye varias secciones: Inicio, Sobre mí, Contacto, Galería de imágenes y un Footer con enlaces.  
 Cada funcionalidad fue desarrollada en una rama diferente y posteriormente integrada en `main` mediante Pull Requests.
@@ -26,7 +26,7 @@ El repositorio oficial del proyecto es:
 
 ---
 
-## id="instalacoón-del-repositorio"🛠 Instalación del repositorio
+## 🛠 Instalación del repositorio
 
 Para clonar el proyecto en local:
 
@@ -35,7 +35,7 @@ git clone https://github.com/alejo7774/tareaUD1.git
 cd tareaUD1
 
 
-## id"estructura-del-proyecto">🗂 Estructura del proyecto
+## 🗂 Estructura del proyecto
 
 tareaUD1/
 │
@@ -51,7 +51,7 @@ tareaUD1/
 
 ---
 
-## <h2>id="mejoras-implementadas">🚀 Mejoras implementadas</h2>
+## 🚀 Mejoras implementadas
 
 Cada mejora se realizó en una **rama independiente**, siguiendo el flujo:
 
@@ -100,7 +100,7 @@ Se añadió un botón flotante circular para volver al inicio de la página.
 Se creó este README en formato Markdown con descripción, estructura, mejoras y flujo de trabajo.
 
 
-## id="flujo-de-trabajo-con-git"🔄 Flujo de trabajo con Git
+## 🔄 Flujo de trabajo con Git
 
 En este proyecto se ha utilizado un flujo de trabajo basado en **ramas independientes**, siguiendo buenas prácticas de desarrollo colaborativo.
 
