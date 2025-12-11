@@ -16,7 +16,7 @@ El objetivo es construir una página web básica y aplicar el flujo de trabajo p
 
 ---
 
-## 🧾 Descripción del proyecto
+## Descripción del proyecto
 
 Esta página web incluye varias secciones: Inicio, Sobre mí, Contacto, Galería de imágenes y un Footer con enlaces.  
 Cada funcionalidad fue desarrollada en una rama diferente y posteriormente integrada en `main` mediante Pull Requests.
@@ -26,7 +26,7 @@ El repositorio oficial del proyecto es:
 
 ---
 
-## 🛠 Instalación del repositorio
+## Instalación del repositorio
 
 Para clonar el proyecto en local:
 
@@ -35,7 +35,7 @@ git clone https://github.com/alejo7774/tareaUD1.git
 cd tareaUD1
 
 
-## 🗂 Estructura del proyecto
+## Estructura del proyecto
 
 tareaUD1/
 │
@@ -51,7 +51,7 @@ tareaUD1/
 
 ---
 
-## 🚀 Mejoras implementadas
+## Mejoras implementadas
 
 Cada mejora se realizó en una **rama independiente**, siguiendo el flujo:
 
@@ -100,7 +100,7 @@ Se añadió un botón flotante circular para volver al inicio de la página.
 Se creó este README en formato Markdown con descripción, estructura, mejoras y flujo de trabajo.
 
 
-## 🔄 Flujo de trabajo con Git
+## Flujo de trabajo con Git
 
 En este proyecto se ha utilizado un flujo de trabajo basado en **ramas independientes**, siguiendo buenas prácticas de desarrollo colaborativo.
 
