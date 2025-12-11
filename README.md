@@ -7,8 +7,8 @@ El objetivo es construir una página web básica y aplicar el flujo de trabajo p
 ---
 ## 📑 Tabla de Contenido
 
-1. [Descripción del proyecto](#Descripción del proyecto)  
-2. [Instalación del repositorio](#instalación-del-repositorio)  
+1. [Descripción del proyecto](#descripcion-del-proyecto)  
+2. [Instalación del repositorio](#instalacoón-del-repositorio)  
 3. [Estructura del proyecto](#estructura-del-proyecto)  
 4. [Mejoras implementadas](#mejoras-implementadas)  
 5. [Flujo de trabajo con Git](#flujo-de-trabajo-con-git)  
@@ -123,6 +123,6 @@ El proceso seguido para cada mejora fue el siguiente:
 	Merge Pull Request
 	Confirm merge
 
-##Autor
+## Autor
 Proyecto realizado por Javier Alejandro Mosquera Astudillo
 DAM – FP Virtual Aragón
